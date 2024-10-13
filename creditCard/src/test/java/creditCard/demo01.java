@@ -8,6 +8,13 @@ public class demo01 {
 		System.out.println("Hello Digital Point Students");
 		
 		System.out.println("Hello Digital Point IRM Students");
+		
+		int x =10;
+		int y =40;
+		
+		int total= x+y;
+		
+		System.out.println("The total is" + total);
 
 	}
 
